@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="foreach" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="arg" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="kv" priority="3" />
+      <Item value="Length" priority="1" />
+      <Item value="case" priority="1" />
+      <Item value="break" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="numOfRows" priority="2" />
+      <Item value="InsertKeyMode`0" priority="0" />
+      <Item value="InsertNumOfRows" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="buttonRun" priority="0" />
+      <Item value="continue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+      <Item value="ToLower`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="PerformClick`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1CB2B7AA-1210-4849-B18D-CDAE78F5EDB5/f:DBHelper.cs" caret="8437" fromTop="0" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="2440" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="19187" fromTop="35" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="19196" fromTop="28" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="18267" fromTop="8" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="17692" fromTop="9" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="1618" fromTop="18" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="19092" fromTop="22" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="17908" fromTop="11" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="18454" fromTop="9" />
+      <File id="2B0759EC-1E51-4F8E-B492-064ED2BE3840/f:FormMain.cs" caret="18742" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

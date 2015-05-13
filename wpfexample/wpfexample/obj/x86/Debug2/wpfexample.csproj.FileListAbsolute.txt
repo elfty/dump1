@@ -1,0 +1,45 @@
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.exe.config
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\Interop.LRRELib.dll
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.csproj.ResolveComReference.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\app.config
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.exe
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.pdb
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\XCSUtils.dll
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\Bloomberglp.Blpapi.xml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\x86\Debug2\Interop.LRRELib.dll
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\MainWindow.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\PositionView.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\MainWindow.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\PositionView.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\App.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample_MarkupCompile.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.g.resources
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.Properties.Resources.resources
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\GenerateResource.read.1.tlog
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\GenerateResource.write.1.tlog
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.exe
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.pdb
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.exe.config
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\Interop.LRRELib.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.csproj.ResolveComReference.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.exe
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.pdb
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\app.config
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.exe
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\wpfexample.pdb
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\Bloomberglp.Blpapi.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\XCSUtils.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\Bloomberglp.Blpapi.xml
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\x86\Debug2\Interop.LRRELib.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\ResolveAssemblyReference.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\MainWindow.baml
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\PositionView.baml
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\MainWindow.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\PositionView.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\App.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample_MarkupCompile.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.g.resources
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\wpfexample.Properties.Resources.resources
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\GenerateResource.read.1.tlog
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Debug2\GenerateResource.write.1.tlog

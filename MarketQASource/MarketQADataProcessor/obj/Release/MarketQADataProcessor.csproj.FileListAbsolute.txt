@@ -1,0 +1,40 @@
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\lib\XCSUtils.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.config
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\lib\NLog.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\lib\Toolkit.Core.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.pdb
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\bin\Release\XCSUtils.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.pdb
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\XCSUtils.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\NLog.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\Toolkit.Core.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.config
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.pdb
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\bin\Release\XCSUtils.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\obj\Release\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.pdb
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\XCSUtils.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.config
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\NLog.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\Toolkit.Core.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.pdb
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\XCSUtils.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.csprojResolveAssemblyReference.cache
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.pdb
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\XCSUtils.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.config
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\NLog.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\lib\Toolkit.Core.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\MarketQADataProcessor.pdb
+K:\VS Projects\MarketQASource\MarketQADataProcessor\bin\Release\XCSUtils.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.csprojResolveAssemblyReference.cache
+K:\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessor\obj\Release\MarketQADataProcessor.pdb

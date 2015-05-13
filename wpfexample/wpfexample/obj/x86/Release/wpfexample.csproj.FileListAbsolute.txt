@@ -1,0 +1,58 @@
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\Release\wpfexample.exe
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\Release\wpfexample.pdb
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\MainWindow.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\MainWindow.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\App.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample_MarkupCompile.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.g.resources
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.Properties.Resources.resources
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\GenerateResource.read.1.tlog
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\GenerateResource.write.1.tlog
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.exe
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.pdb
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Interop.LRRELib.dll
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.csproj.ResolveComReference.cache
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\PositionView.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\PositionView.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\Release\wpfexample.exe.config
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\Release\app.config
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\bin\Release\XCSUtils.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\wpfexample.exe.config
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\Interop.LRRELib.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample.csproj.ResolveComReference.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample.exe
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample.pdb
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\app.config
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\wpfexample.exe
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\wpfexample.pdb
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\XCSUtils.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\Interop.LRRELib.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\MainWindow.baml
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\PositionView.baml
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\MainWindow.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\PositionView.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\App.g.cs
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample_MarkupCompile.cache
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample.g.resources
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\wpfexample.Properties.Resources.resources
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\schan\Desktop\wpfexample\wpfexample\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\Bloomberglp.Blpapi.dll
+C:\Users\schan\Desktop\wpfexample\wpfexample\bin\Release\Bloomberglp.Blpapi.xml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Control\Block.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Control\Block.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Control\LoadingAnimation.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\SplashWPF.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample_MarkupCompile.lref
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Control\LoadingAnimation.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\SplashWPF.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\wpfexample.SplashForm.resources
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\ByGicsInduView.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\BySectorView.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\ByMaturityView.baml
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\ByGicsInduView.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\BySectorView.g.cs
+N:\Visual Studio 2010\Projects\wpfexample\wpfexample\obj\x86\Release\Views\ByMaturityView.g.cs

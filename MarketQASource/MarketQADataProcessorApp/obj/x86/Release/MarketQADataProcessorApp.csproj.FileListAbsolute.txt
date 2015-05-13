@@ -1,0 +1,117 @@
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.config
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\XCSUtils.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.config
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\NLog.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\Toolkit.Core.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.pdb
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\Toolkit.Core.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\NLog.dll
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.pdb
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseMainForm.resources
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseFormControl.resources
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.formMain.resources
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.Properties.Resources.resources
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.pdb
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.manifest
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.application
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe.manifest
+C:\Users\schan\Desktop\Sherman\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.application
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.config
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.pdb
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\XCSUtils.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\NLog.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\Toolkit.Core.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.config
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.manifest
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.application
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.pdb
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\Toolkit.Core.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\NLog.dll
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.pdb
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseMainForm.resources
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseFormControl.resources
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.formMain.resources
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.Properties.Resources.resources
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\GenerateResource.read.1.tlog
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\GenerateResource.write.1.tlog
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe.manifest
+N:\Visual Studio 2010\Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.application
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.config
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.pdb
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\XCSUtils.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.config
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\NLog.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\Toolkit.Core.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.manifest
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.application
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.pdb
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\Toolkit.Core.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\NLog.dll
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.pdb
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csprojResolveAssemblyReference.cache
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseMainForm.resources
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseFormControl.resources
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.formMain.resources
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.Properties.Resources.resources
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csproj.GenerateResource.Cache
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe.manifest
+C:\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.application
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.config
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.pdb
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\XCSUtils.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.config
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\NLog.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\Toolkit.Core.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.manifest
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.application
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.pdb
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\Toolkit.Core.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\NLog.dll
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.pdb
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csprojResolveAssemblyReference.cache
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseMainForm.resources
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseFormControl.resources
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.formMain.resources
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.Properties.Resources.resources
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csproj.GenerateResource.Cache
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe.manifest
+K:\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.application
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.config
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.pdb
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\XCSUtils.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.config
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\NLog.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\lib\Toolkit.Core.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe.manifest
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.application
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.exe
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessorApp.pdb
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\Toolkit.Core.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\NLog.dll
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\bin\Release\MarketQADataProcessor.pdb
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csprojResolveAssemblyReference.cache
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseMainForm.resources
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.BaseFormControl.resources
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.formMain.resources
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.Properties.Resources.resources
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.csproj.GenerateResource.Cache
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.exe.manifest
+\\ny9-wsql1\c$\Walleye\VS Projects\MarketQASource\MarketQADataProcessorApp\obj\x86\Release\MarketQADataProcessorApp.application
